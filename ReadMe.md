@@ -1,5 +1,5 @@
   # 💫 Sobre Mim:
-💻 Java | Js<br>⚡ Desenvolvedor Back-end<br>📚 Procurando Estágio
+💻 Java | Js<br>⚡ Desenvolvedor Back-end<br>
 
 
 ## 🌐 Sociais:
