@@ -1,5 +1,5 @@
   # 💫 Sobre Mim:
-💻 Java | Js<br>⚡ Desenvolvedor Back-end<br>
+⚡ Desenvolvedor Full-Stack<br>
 
 
 ## 🌐 Sociais:
