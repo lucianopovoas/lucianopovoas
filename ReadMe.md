@@ -7,8 +7,9 @@
 
 # 💻 Tecnologias Dominadas:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sqlite&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
